@@ -1,0 +1,8 @@
+netscience.gml = Coauthorships in network science: coauthorship network of scientists working on network theory and experiment, compiled by M. Newman in May 2006. Source: https://github.com/gephi/gephi/wiki/Datasets
+
+lesmiserables.gml (and derived nodes.csv, edges.csv) = Coappearance weighted network of characters in the novel Les Miserables. D. E. Knuth, The Stanford GraphBase: A Platform for Combinatorial Computing, Addison-Wesley, Reading, MA (1993). Source: https://github.com/gephi/gephi/wiki/Datasets
+
+power.gml = An undirected, unweighted network representing the topology of the Western States Power Grid of the United States. Data compiled by D. Watts and S. Strogatz and made available on the web here. Please cite D. J. Watts and S. H. Strogatz, Nature 393, 440-442 (1998). Source: https://github.com/gephi/gephi/wiki/Datasets
+
+ground_squirrel_smith_2017a_attribute.graphml, ground_squirrel_smith_2017b_attribute.graphml = Smith, J. E., Gamboa, D. A., Spencer, J. M., Travenick, S. J., Ortiz, C. A.,
+Hunter, R. D., & Sih, A. (2018). Split between two worlds: automated sensing reveals links between above-and belowground social networks in a free-living mammal. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1753), 20170249. Source = https://bansallab.github.io/asnr/data.html
