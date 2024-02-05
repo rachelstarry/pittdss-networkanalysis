@@ -6,3 +6,5 @@ power.gml = An undirected, unweighted network representing the topology of the W
 
 ground_squirrel_smith_2017a_attribute.graphml, ground_squirrel_smith_2017b_attribute.graphml = Smith, J. E., Gamboa, D. A., Spencer, J. M., Travenick, S. J., Ortiz, C. A.,
 Hunter, R. D., & Sih, A. (2018). Split between two worlds: automated sensing reveals links between above-and belowground social networks in a free-living mammal. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1753), 20170249. Source = https://bansallab.github.io/asnr/data.html
+
+rt_occupywallstnyc.gml (derived from rt_occupywallstnyc.edges) = occupywallstnyc (Retweet Networks). Source =  https://networkrepository.com/rt-occupywallstnyc.php
